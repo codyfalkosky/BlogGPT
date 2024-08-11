@@ -1,0 +1,8 @@
+food_and_travel_llama_blog/
+.DS_Store
+.ipynb_checkpoints/
+EXTRA/
+model16bit_checkpoint120_loaded/
+model16bit_checkpoint200_loaded/
+model16bit_checkpoint300/
+model16bit_checkpoint400_loaded/
