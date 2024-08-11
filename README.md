@@ -23,7 +23,7 @@ BlogGPT writes your first draft! You give it your blog title and headings, and i
 Under the hood, BlogGPT is powered by a fine-tuned version of LLama 3 8B Instruct.
 
 TRY IT OUT!  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a0IZ1fOEd_Y13_dXHO9JBmirCrxjyi-X?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wW-QVKf4MEVFzFIxRH18va2iZWYK4kts?usp=sharing)
 <br>
 <div id='2'></div>
 
