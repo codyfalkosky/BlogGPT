@@ -34,12 +34,17 @@ The number of hallucinations was reduced throughout training.
 
 Though the hallucinations slightly increased at step 300, the number of output sentences per paragraph doubled.  By this metric, step 300 performed best.
 
+<br>
+<div id='3'></div>
+
 ## Train/Test Loss
 
 The lowest testing loss occurs around step 300. The red bars illustrate this, showing the mean of roughly one epoch of testing loss.  Beyond step 350, problematic overfitting begins, with the training loss going down but the testing loss starting to go up.
 
 ![Train/Test Loss](./images/model_train_test_loss_by_training_step.png)
 
+<br>
+<div id='4'></div>
 
 ## Conclusion
 
