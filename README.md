@@ -1,9 +1,7 @@
-<table style="border: none; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="border: none;"><img src="./images/meta_logo.png" width="200px" /></td>
-    <td style="border: none;"><img src="./images/huggingface_logo.png" width="200px" /></td>
-  </tr>
-</table>
+<div align="center">
+    <img src="./images/meta_logo_pad.png" width="200px" />
+    <img src="./images/huggingface_logo.png" width="200px" />
+</div>
 
 # BlogGPT: LLama 3 fine-tuned for writing food and travel blogs
 ***
