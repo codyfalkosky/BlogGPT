@@ -1,7 +1,9 @@
-<div align="center">
-    <img src="./images/meta_logo.png" width="200px" style="padding: 20px; padding-bottom: 50px"></img>
-    <img src="./images/huggingface_logo.png" width="200px" style="padding: 20px"></img>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="./images/meta_logo.png" width="200px" /></td>
+    <td><img src="./images/huggingface_logo.png" width="200px" /></td>
+  </tr>
+</table>
 
 # BlogGPT: LLama 3 fine-tuned for writing food and travel blogs
 ***
