@@ -84,15 +84,15 @@ blog_GPT.blog(title, headings)
 ***
 
 ### Data Preparation
-The data collection and cleaning process was by far the greatest challenge of this project.  First, the website data was downloaded, then the articles were extracted from the HTML, then the title, headings, and content were parsed, and finally, the information was packed into LLama 3 instruction format for fine-tuning.  See the detailed story at the link below.  
+The data collection and cleaning process was by far the greatest challenge of this project.  First, the website data was downloaded, then the articles were extracted from the HTML.  Then the title, headings, and content were parsed. Finally, the information was packed into LLama 3 instruction format for fine-tuning.  See the detailed story at the link below.  
 [LINK](./Data_Preparation.md)  
 
 ### SFTTrainer Subclassing
-As far as I understood the `SFTTraining` class does not support subsampling of the evaluation dataset, that is to say every evaluation loop was done on the entire testing dataset.  I solved this by subclassing the SFTTrainer to add functionality for evaluation dataset sampling.  Check it out!  
+To my knowledge, the `SFTTraining` class does not support subsampling of the evaluation dataset. This meant that every evaluation loop was done on the entire testing dataset.  I solved this by subclassing the SFTTrainer to add functionality for evaluation dataset sampling.  Check it out!  
 [LINK](./SFTTrainer_Subclassing.ipynb)
 
 ### Training
-The model was trained in Google Colab on an A100 using a modified version of the unsloth training notebook.  Full notebook below.  
+The model was trained in Google Colab on an A100 using a modified version of the Unsloth training notebook.  Full notebook below.  
 [LINK](https://colab.research.google.com/drive/1nrpi6sL9GWrft0UPe_iJLKEnxwO1jAPD?usp=sharing)
 
 ### Choosing the Final Model
