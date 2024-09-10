@@ -1,8 +1,8 @@
 <div align="center">
     <!-- <img src="./images/meta.png" width="400px" style="vertical-align: middle; padding-right: 10px"></img> -->
     <!-- <img src="./images/huggingface.png" width="450px" style="vertical-align: middle; padding-right: 10px"></img> -->
-    <img src="./images/meta_logo.png" width="200px" style="vertical-align: middle; padding-right: 50px"></img>
-    <img src="./images/huggingface_logo.png" width="200px" style="vertical-align: middle; padding-right: 50px"></img>
+    <img src="./images/meta_logo.png" width="150px" style="vertical-align: middle; padding-right: 50px"></img>
+    <img src="./images/huggingface_logo.png" width="150px" style="vertical-align: middle; padding-right: 50px"></img>
     <!-- <img src="./images/plus.png" width="50px" style="vertical-align: middle;"></img> -->
 </div>
 
