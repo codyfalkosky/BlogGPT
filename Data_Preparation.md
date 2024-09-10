@@ -40,7 +40,7 @@ Now, with the article extracted from the HTML, the title, headings, and content 
 ## Conversion to Message Format
 ***
 
-Given the intention to fine-tune the LLama 3 Instruct model, the training data needed to conform to the specific message format required by LLama 3 Instruct.  Multiple prompts were generated and labeled, then saved into a list in a JSON file containing approximately 15k blog generation examples and 15k heading generation examples.
+Given the intention to fine-tune the LLama 3 Instruct model, the training data needed to conform to the specific message format required by LLama 3 Instruct.  Multiple prompts were generated and labeled, then saved into a list in a JSON file containing approximately 15k blog generation examples.
 
 [NOTEBOOK](Data_Prep_Notebooks/3_Convert_To_Message.ipynb)
 
@@ -49,6 +49,6 @@ Given the intention to fine-tune the LLama 3 Instruct model, the training data n
 ## Next Steps
 ***
 
-Now we have a json file containing a list of dictionaries with keys 'messages' containing the prompt and desired response and 'label' notating the type of prompt.  We are ready to train!
+Now we have a JSON file containing a list of dictionaries with keys 'messages' containing the prompt and desired response and 'label' notating the type of prompt.  We are ready to train!
 
 [Training Colab Link](https://colab.research.google.com/drive/1nrpi6sL9GWrft0UPe_iJLKEnxwO1jAPD?usp=sharing)
