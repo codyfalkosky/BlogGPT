@@ -15,7 +15,7 @@
 
 ## Data Collection
 ***
-I located 27 websites with many blogs and used wget to download and build a local tree of each website and all its contents to make the article extraction process local, repeatable and tweakable.  The scraping process took about 1 day.
+I located 27 websites with many blog posts and used wget to download and build a local tree of each website and all its contents to make the article extraction process local, repeatable and tweakable.  The scraping process took about 1 day.
 
 <div id='2'></div>
 
