@@ -1,4 +1,4 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table style="border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><img src="./images/meta_logo.png" width="200px" /></td>
     <td><img src="./images/huggingface_logo.png" width="200px" /></td>
