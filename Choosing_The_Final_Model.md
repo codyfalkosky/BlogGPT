@@ -15,7 +15,7 @@
 ## Paragraph Length
 ***
 
-When comparing LLama 3 instruct to the training data, the paragraph lengths were much shorter than the standard blog.  Though out training training the paragraph length improved.
+When comparing LLama 3 instruct to the training data, the paragraph lengths were much shorter than the standard blog.  Throughout training the paragraph length improved.
 
 ![Paragraph Length by Train Step](./images/paragraph_length_by_training_step.png)
 
